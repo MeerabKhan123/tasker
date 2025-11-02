@@ -13,6 +13,5 @@ Perfect for personal productivity and time management.
 ✅ Local Storage Support — Your tasks stay saved even after refreshing.
 ✅ Responsive Design — Works perfectly on desktop, tablet, and mobile.
 ✅ Modern UI — Clean design with smooth transitions and hover effects.
-🌐 Live Demo (Hosted on Netlify)
 
 ## 🚀 Live Site: https://tasker0.netlify.app/
